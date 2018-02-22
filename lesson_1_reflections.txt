@@ -1,0 +1,35 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+this provided a faster way of seeing bugs or difference between files
+as it will compare the two files and provide you with the summary of their 
+comparison.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+because it provides a form of history for reference purpose, and it shows the changes that were made maybe in trying to fix a bug, and this will definately provide you with a better way of handling bugs,
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+having versions automatically saved will clog up yor file repository and it becomes difficult to understand the changes that were made because the files become too much, while in the other hand saving files manually is the best but this now depends on the discretion of the programmer to know when to post a commit.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+because sometimes making a single commit can cut accross multiple files and git provides opportunity for such and also git functions offline.
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log shows the entire history of all the commits that have been performed on the file, while the git diff will show the difference betwwen two commits in terms of addition or removal.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+since version control provides the opportunity to go back and check previous files making changes can be done easily in situations where bugs arises
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+for working on differrent projects.
